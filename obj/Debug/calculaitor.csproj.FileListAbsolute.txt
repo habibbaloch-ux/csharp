@@ -1,0 +1,10 @@
+C:\Users\Students\Videos\calculaitor\obj\Debug\calculaitor.csproj.AssemblyReference.cache
+C:\Users\Students\Videos\calculaitor\obj\Debug\calculaitor.Form1.resources
+C:\Users\Students\Videos\calculaitor\obj\Debug\calculaitor.Properties.Resources.resources
+C:\Users\Students\Videos\calculaitor\obj\Debug\calculaitor.csproj.GenerateResource.cache
+C:\Users\Students\Videos\calculaitor\obj\Debug\calculaitor.csproj.CoreCompileInputs.cache
+C:\Users\Students\Videos\calculaitor\bin\Debug\calculaitor.exe.config
+C:\Users\Students\Videos\calculaitor\bin\Debug\calculaitor.exe
+C:\Users\Students\Videos\calculaitor\bin\Debug\calculaitor.pdb
+C:\Users\Students\Videos\calculaitor\obj\Debug\calculaitor.exe
+C:\Users\Students\Videos\calculaitor\obj\Debug\calculaitor.pdb
